@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="OSINT" text="OSINT">
+      <outline text="Projet FOX" title="Projet FOX" type="rss" 
+            xmlUrl="https://projetfox.com/feed/" htmlUrl="https://projetfox.com/"/>
+      <outline text="Sofia Santos | OSINT Analysis &#38; Tutorials" title="Sofia Santos | OSINT Analysis &#38; Tutorials" type="rss" 
+            xmlUrl="https://gralhix.com/feed/" htmlUrl="https://gralhix.com"/>
+      <outline text="Sector035" title="Sector035" type="rss" 
+            xmlUrl="https://sector035.nl/articles.rss" htmlUrl="https://sector035.nl/articles"/>
+      <outline text="OSINTFR" title="OSINTFR" type="rss" 
+            xmlUrl="https://osintfr.com/en/feed/" htmlUrl="https://osintfr.com/en/home/"/>
+      <outline text="Bellingcat" title="Bellingcat" type="rss" 
+            xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/"/>
+      <outline text="All Eyes on Wagner" title="All Eyes on Wagner" type="rss" 
+            xmlUrl="https://alleyesonwagner.org/feed/" htmlUrl="https://alleyesonwagner.org"/>
+  </outline>
+  <outline title="GEOPOL" text="GEOPOL">
+  </outline>
+  <outline title="General" text="General">
+      <outline text="Thinkerview" title="Thinkerview" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQgWpmt02UtJkyO32HGUASQ" htmlUrl="https://www.youtube.com/channel/UCQgWpmt02UtJkyO32HGUASQ"/>
+  </outline>
+  <outline title="NEWS" text="NEWS">
+  </outline>
+      <outline text="Technique et Droit du numérique" title="Technique et Droit du numérique" type="rss" 
+            xmlUrl="https://technique-et-droit-du-numerique.fr/feed/" htmlUrl="https://technique-et-droit-du-numerique.fr"/>
+  <outline title="SE" text="SE">
+      <outline text="Hacking social - Blog" title="Hacking social - Blog" type="rss" 
+            xmlUrl="https://www.hacking-social.com/feed/" htmlUrl="https://www.hacking-social.com/"/>
+      <outline text="Hacking social - YT" title="Hacking social - YT" type="rss" 
+            xmlUrl="https://youtube.com/feeds/videos.xml?channel_id=UCGeFgMJfWclTWuPw8Ok5FUQ" htmlUrl="https://www.youtube.com/channel/UCGeFgMJfWclTWuPw8Ok5FUQ"/>
+  </outline>
+      <outline text="Hacknspeak" title="Hacknspeak" type="rss" 
+            xmlUrl="https://anchor.fm/s/435c0d58/podcast/rss" htmlUrl="https://twitter.com/mpgn_x64"/>
+</body>
+</opml>
