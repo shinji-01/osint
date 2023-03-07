@@ -17,12 +17,20 @@
             xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/"/>
       <outline text="All Eyes on Wagner" title="All Eyes on Wagner" type="rss" 
             xmlUrl="https://alleyesonwagner.org/feed/" htmlUrl="https://alleyesonwagner.org"/>
+      <outline text="OpenFacto" title="OpenFacto" type="rss" 
+            xmlUrl="https://openfacto.fr/feed/" htmlUrl="https://openfacto.fr"/>
+      <outline text="Bendobrown" title="Bendobrown" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW2WOgSiMr216a27KWG_aqg" htmlUrl="https://www.youtube.com/channel/UCW2WOgSiMr216a27KWG_aqg"/>
+      <outline text="Sylvqin" title="Sylvqin" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCseGV3amBLISlIOMQodPfVQ" htmlUrl="https://www.youtube.com/channel/UCseGV3amBLISlIOMQodPfVQ"/>
   </outline>
   <outline title="GEOPOL" text="GEOPOL">
   </outline>
   <outline title="General" text="General">
       <outline text="Thinkerview" title="Thinkerview" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQgWpmt02UtJkyO32HGUASQ" htmlUrl="https://www.youtube.com/channel/UCQgWpmt02UtJkyO32HGUASQ"/>
+      <outline text="Les éclaireurs du numérique" title="Les éclaireurs du numérique" type="rss" 
+            xmlUrl="https://leseclaireursdunumerique.fr/feed/" htmlUrl="https://leseclaireursdunumerique.fr/"/>
   </outline>
   <outline title="NEWS" text="NEWS">
   </outline>
@@ -33,8 +41,18 @@
             xmlUrl="https://www.hacking-social.com/feed/" htmlUrl="https://www.hacking-social.com/"/>
       <outline text="Hacking social - YT" title="Hacking social - YT" type="rss" 
             xmlUrl="https://youtube.com/feeds/videos.xml?channel_id=UCGeFgMJfWclTWuPw8Ok5FUQ" htmlUrl="https://www.youtube.com/channel/UCGeFgMJfWclTWuPw8Ok5FUQ"/>
+      <outline text="Marketing Mania" title="Marketing Mania" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSmUdD2Dd_v5uqBuRwtEZug" htmlUrl="https://www.youtube.com/channel/UCSmUdD2Dd_v5uqBuRwtEZug"/>
   </outline>
       <outline text="Hacknspeak" title="Hacknspeak" type="rss" 
             xmlUrl="https://anchor.fm/s/435c0d58/podcast/rss" htmlUrl="https://twitter.com/mpgn_x64"/>
+      <outline text="Breadcrumbs by Tracelabs" title="Breadcrumbs by Tracelabs" type="rss" 
+            xmlUrl="https://pod.link/1542092539.rss" htmlUrl="https://tracelabs.org"/>
+      <outline text=" The Privacy, Security, &#38; OSINT Show The Privacy, Security, &#38; OSINT Show" title=" The Privacy, Security, &#38; OSINT Show The Privacy, Security, &#38; OSINT Show" type="rss" 
+            xmlUrl="https://pod.link/1525141598.rss" htmlUrl="https://soundcloud.com/user-98066669"/>
+      <outline text="Layer 8 Podcast" title="Layer 8 Podcast" type="rss" 
+            xmlUrl="https://pod.link/1495404846.rss" htmlUrl="https://layer8podcast.org"/>
+      <outline text="Mix du lundi" title="Mix du lundi" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/9uvf0zey4hb8w7pf.xml" htmlUrl="https://kill-the-newsletter.com/"/>
 </body>
 </opml>
